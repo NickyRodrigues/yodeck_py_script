@@ -19,10 +19,6 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
 
-      - name: Fazer alterações (exemplo)
-        run: |
-          echo "Exemplo de alteração" >> exemplo.txt
-
       - name: Adicionar, comitar e push SE houver mudanças
         run: |
           git add .
