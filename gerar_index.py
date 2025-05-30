@@ -30,7 +30,7 @@ body, html {{
 .scroll-container {{
   white-space: nowrap;
   display: inline-block;
-  animation: scroll-left 350s linear infinite;
+  animation: scroll-left 450s linear infinite;
   font-size: 42px;
   font-weight: bold;
   padding-left: 100%;
